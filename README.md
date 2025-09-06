@@ -1,5 +1,15 @@
 ## Hi there, I'm Erica!!
 
+---
+
+## 🛠️ Tech Stack (Learning)
+- Languages: Python, JavaScript  
+- Web: HTML, CSS  
+- Databases: SQL (coming soon)  
+- Tools: Git, GitHub, VS Code
+  
+---
+
 ## 📚 Learning Journey
 I'm documenting my journey from beginner to software engineer by:  
 - Building small projects and sharing them here on GitHub  
