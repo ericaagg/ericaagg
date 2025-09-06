@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Erica!!
+
+## 📚 Learning Journey
+I'm documenting my journey from beginner to software engineer by:  
+- Building small projects and sharing them here on GitHub  
+- Practicing coding daily (Python + DSA)  
+- Exploring web development and open-source  
+
+---
+
+✨ Thanks for visiting! Stay tuned as I keep building and learning!! :>
 
 <!--
 **ericaagg/ericaagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
