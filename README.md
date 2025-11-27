@@ -11,7 +11,7 @@
 ---
 
 ## 📚 Learning Journey
-I'm documenting my journey from beginner to software engineer by:  
+I'm documenting my journey from beginner to full-stack developer by:  
 - Building small projects and sharing them here on GitHub  
 - Practicing coding daily (Python + DSA)  
 - Exploring web development and open-source  
